@@ -2,4 +2,6 @@
 .idea/
 inspectionProfiles/
 workspace.xml
+.vscode
+data/words_to_learn.csv
 
